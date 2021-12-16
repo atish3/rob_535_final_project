@@ -1,7 +1,7 @@
 # ROB 535 Final Project - Team 25
 Collaborators: Atishay Singh, Cameron Kabacinski, Adarsh Karnati, Michael Rakowiecki, Michael Fanelli, Nikhil Shetty
 
-This repository contains the code for the Perceptron portion of the final project for ROB 535. Our model is based off of the VGG-16 model, with some modifications made to reduce overfitting on the majority class within our dataset. These changes are described in more detail within our report.
+This repository contains the code for the Perceptron portion of the final project for ROB 535. Our model is based off of the VGG-16 model, with some modifications made to reduce overfitting on the majority class within our dataset. These changes are described in more detail within our report. Our model and preprocessed dataset are contained on Google Drive, and our code has been implemented and tested on Google Colab, using the availabale GPU resources.
 
 
 
